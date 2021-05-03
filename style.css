@@ -6,6 +6,11 @@
     grid-template-columns: repeat(2,1fr);
 }
 
+img {
+    width: 5em;
+    height: auto;
+}
+
 body{
     margin: 0;
     padding: 0;
