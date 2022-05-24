@@ -96,6 +96,21 @@ a{
     padding-left: 10px;
 }
 
+ul.book {
+    list-style: "📚   ";
+    list-style-position: outside;
+}
+
+ul.phone {
+    list-style: "📱   ";
+    list-style-position: outside;
+}
+
+ul.paper {
+    list-style: "⚡   ";
+    list-style-position: outside;
+}
+
 /* media queres */
 @media(max-width:780px){
     .grid-2{
